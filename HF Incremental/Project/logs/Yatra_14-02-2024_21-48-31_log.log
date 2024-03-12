@@ -1,0 +1,23 @@
+[INFO] 2024-02-14 21:48:46,980 runner.RunTest logInfo - Clicked on Hotel Destination
+[INFO] 2024-02-14 21:48:47,911 runner.RunTest logInfo - Clicked on Hotel Checkin Date 
+[INFO] 2024-02-14 21:48:48,564 runner.RunTest logInfo - Clicked on Hotel CheckOut Date
+[INFO] 2024-02-14 21:48:52,378 runner.RunTest logInfo - Clicked on Hotel Search Button
+[INFO] 2024-02-14 21:48:56,279 runner.RunTest logInfo - Location Verification passed!
+[INFO] 2024-02-14 21:48:56,784 runner.RunTest logInfo - Test Case 1 Done
+[INFO] 2024-02-14 21:49:02,354 runner.RunTest logInfo - Enter Flight Origin City
+[INFO] 2024-02-14 21:49:03,290 runner.RunTest logInfo - Enter Flight Arrival City
+[INFO] 2024-02-14 21:49:04,063 runner.RunTest logInfo - Click on Flight Origin Date
+[INFO] 2024-02-14 21:49:04,813 runner.RunTest logInfo - Click on Flight Arrival Date
+[INFO] 2024-02-14 21:49:05,078 runner.RunTest logInfo - Click on Senior Citizen
+[INFO] 2024-02-14 21:49:08,904 runner.RunTest logInfo - Cannot Click on Flight Search Button
+[INFO] 2024-02-14 21:49:24,272 runner.RunTest logInfo - Sucessfully land on flight search page
+[INFO] 2024-02-14 21:49:24,514 runner.RunTest logInfo - Clicked on text Stops in Flight Search page
+[INFO] 2024-02-14 21:49:24,685 runner.RunTest logInfo - Test Case 2 Done
+[INFO] 2024-02-14 21:49:30,185 runner.RunTest logInfo - Click on Holiday Option
+[INFO] 2024-02-14 21:49:32,538 runner.RunTest logInfo - Entered Holiday leaving city
+[INFO] 2024-02-14 21:49:34,789 runner.RunTest logInfo - Entered holiday Destination city
+[INFO] 2024-02-14 21:49:35,333 runner.RunTest logInfo - Select month of travel for Holiday
+[INFO] 2024-02-14 21:49:39,594 runner.RunTest logInfo - Click Search Holiday Button
+[ERROR] 2024-02-14 21:49:39,756 runner.RunTest logError - Cannot land on holiday search page
+[ERROR] 2024-02-14 21:49:46,611 runner.RunTest logError - Cannot Verified Holiday Destination City
+[INFO] 2024-02-14 21:49:46,856 runner.RunTest logInfo - Test Case 3 Done
