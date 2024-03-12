@@ -1,0 +1,24 @@
+[INFO] 2024-02-15 10:56:13,955 Runner.RunTest logInfo - Clicked on Hotel Option 
+[INFO] 2024-02-15 10:56:16,301 Runner.RunTest logInfo - Clicked on Hotel Destination
+[INFO] 2024-02-15 10:56:17,111 Runner.RunTest logInfo - Clicked on Hotel Checkin Date 
+[INFO] 2024-02-15 10:56:17,659 Runner.RunTest logInfo - Clicked on Hotel CheckOut Date
+[INFO] 2024-02-15 10:56:20,343 Runner.RunTest logInfo - Clicked on Hotel Search Button
+[INFO] 2024-02-15 10:56:22,582 Runner.RunTest logInfo - Location Verification passed!
+[INFO] 2024-02-15 10:56:22,582 Runner.RunTest logInfo - Test Case 1 done
+[INFO] 2024-02-15 10:56:29,063 Runner.RunTest logInfo - Enter Flight Origin City
+[INFO] 2024-02-15 10:57:00,294 Runner.RunTest logInfo - Enter Flight Arrival City
+[INFO] 2024-02-15 10:57:31,559 Runner.RunTest logInfo - Click on Flight Origin Date
+[INFO] 2024-02-15 10:57:32,383 Runner.RunTest logInfo - Click on Flight Arrival Date
+[INFO] 2024-02-15 10:57:32,591 Runner.RunTest logInfo - Click on Senior Citizen
+[INFO] 2024-02-15 10:57:32,738 Runner.RunTest logInfo - Cannot Click on Flight Search Button
+[ERROR] 2024-02-15 10:57:32,959 Runner.RunTest logError - Cannot land on flight search page
+[INFO] 2024-02-15 10:57:48,000 Runner.RunTest logInfo - Test Case 2 failed somewhere
+[ERROR] 2024-02-15 10:57:48,182 Runner.RunTest logError - Failed to click on Hotel Option
+[INFO] 2024-02-15 10:57:53,937 Runner.RunTest logInfo - Click on Holiday Option
+[INFO] 2024-02-15 10:57:56,369 Runner.RunTest logInfo - Entered Holiday leaving city
+[INFO] 2024-02-15 10:57:57,499 Runner.RunTest logInfo - Entered holiday Destination city
+[INFO] 2024-02-15 10:57:57,949 Runner.RunTest logInfo - Select month of travel for Holiday
+[INFO] 2024-02-15 10:57:58,892 Runner.RunTest logInfo - Click Search Holiday Button
+[ERROR] 2024-02-15 10:57:59,017 Runner.RunTest logError - Cannot land on holiday search page
+[ERROR] 2024-02-15 10:58:02,536 Runner.RunTest logError - Cannot Verified Holiday Destination City
+[INFO] 2024-02-15 10:58:02,536 Runner.RunTest logInfo - Test Case 3 done
